@@ -1,6 +1,6 @@
 import React from "react";
 import { assets } from "../assets/assets";
-
+import banner from "../assets/banner.jpg"
 const Hero = () => {
   return (
     <div className="flex flex-col border border-gray-400 sm:flex-row">
@@ -23,7 +23,7 @@ const Hero = () => {
         </div>
       </div>
       {/* Hero right side */}
-      <img className="w-full sm:w-1/2" src={assets.hero_img} alt="Hero Image" />
+      <img className="w-full sm:w-1/2" src={banner} alt="Hero Image" />
     </div>
   );
 };

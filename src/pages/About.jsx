@@ -25,14 +25,7 @@ const About = () => {
             hiện cá tính thông qua thời trang – và ST Collection sẽ giúp bạn làm điều
             đó dễ dàng và thú vị hơn.
           </p>
-          <p>
-            Tại ST Collection, sự hài lòng của bạn là ưu tiên hàng đầu. Từ lúc bạn
-            truy cập trang web đến khi đơn hàng được giao đến tay, chúng tôi
-            luôn nỗ lực mang lại trải nghiệm mua sắm trọn vẹn và mượt mà. Đội
-            ngũ của chúng tôi không ngừng cập nhật xu hướng mới để bạn luôn là
-            người đầu tiên sở hữu phong cách mới nhất. Cảm ơn bạn đã chọn
-            ST Collection – rất vinh dự khi được đồng hành cùng phong cách của bạn.
-          </p>
+
 
           <b className="text-gray-800">Sứ mệnh của chúng tôi</b>
           <p>

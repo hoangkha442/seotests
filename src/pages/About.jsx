@@ -2,7 +2,7 @@ import React from "react";
 import Title from "../components/Title";
 import { assets } from "../assets/assets";
 import NewsLetterBox from "../components/NewsLetterBox";
-
+import daden from "../assets/daden.jpg"
 const About = () => {
   return (
     <div>
@@ -13,7 +13,7 @@ const About = () => {
       <div className="flex flex-col gap-16 my-10 md:flex-row">
         <img
           className="w-full md:max-w-[450px]"
-          src={assets.about_img}
+          src={daden}
           alt="Ảnh giới thiệu"
         />
         <div className="flex flex-col justify-center gap-6 text-gray-600 md:w-2/4">

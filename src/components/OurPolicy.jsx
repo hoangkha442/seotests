@@ -21,7 +21,7 @@ const OurPolicy = () => {
         />
         <p className="mb-2 font-semibold">Cam kết chất lượng</p>
         <p className="text-gray-400">
-          Trendify cam kết sản phẩm chất lượng cao.
+          ST Collection cam kết sản phẩm chất lượng cao.
         </p>
       </div>
       <div>

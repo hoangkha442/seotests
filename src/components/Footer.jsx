@@ -8,10 +8,10 @@ const Footer = () => {
   <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm'>
     <div>
       <Link to='/'>
-        <img src={assets.logo} className='w-32 mb-5 cursor-pointer' alt="Trendify" />
+        <img src={assets.logo} className='w-32 mb-5 cursor-pointer' alt="ST Collection" />
       </Link>
       <p className='w-full text-gray-600 md:w-2/3'>
-        Cảm ơn bạn đã mua sắm tại Trendify! Chúng tôi cam kết mang đến cho bạn những xu hướng thời trang mới nhất và sản phẩm chất lượng cao. Hãy theo dõi chúng tôi trên mạng xã hội để cập nhật các mẫu mới, ưu đãi độc quyền và nhiều điều thú vị khác. Nếu bạn có bất kỳ thắc mắc nào, đội ngũ chăm sóc khách hàng thân thiện của chúng tôi luôn sẵn sàng hỗ trợ. Đăng ký nhận bản tin để nhận ưu đãi đặc biệt và cập nhật chương trình khuyến mãi mới nhất. Hành trình phong cách của bạn bắt đầu từ đây – hãy cùng tạo nên điều đáng nhớ!
+        Cảm ơn bạn đã mua sắm tại ST Collection! Chúng tôi cam kết mang đến cho bạn những xu hướng thời trang mới nhất và sản phẩm chất lượng cao. Hãy theo dõi chúng tôi trên mạng xã hội để cập nhật các mẫu mới, ưu đãi độc quyền và nhiều điều thú vị khác. Nếu bạn có bất kỳ thắc mắc nào, đội ngũ chăm sóc khách hàng thân thiện của chúng tôi luôn sẵn sàng hỗ trợ. Đăng ký nhận bản tin để nhận ưu đãi đặc biệt và cập nhật chương trình khuyến mãi mới nhất. Hành trình phong cách của bạn bắt đầu từ đây – hãy cùng tạo nên điều đáng nhớ!
       </p>
     </div>
 
@@ -44,7 +44,7 @@ const Footer = () => {
 
   <div>
     <hr />
-    <p className='py-5 text-sm text-center'>© 2025 Trendify. Đã đăng ký bản quyền.</p>
+    <p className='py-5 text-sm text-center'>© 2025 ST Collection. Đã đăng ký bản quyền.</p>
   </div>
 </div>
 

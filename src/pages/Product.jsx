@@ -97,8 +97,8 @@ const Product = () => {
           <p className='px-5 py-3 text-sm border'>Đánh giá (122)</p>
         </div>
         <div className='flex flex-col gap-4 px-6 py-6 text-sm text-gray-500 border'>
-          <p>Nâng tầm phong cách của bạn với các sản phẩm chất lượng cao đến từ Trendify. Được thiết kế tinh tế, cân bằng giữa sự thanh lịch và tính ứng dụng, sản phẩm của chúng tôi sử dụng chất liệu cao cấp, đảm bảo độ bền và sự thoải mái.</p>
-          <p>Dù bạn đang chuẩn bị cho một dịp đặc biệt hay chỉ muốn thêm phần chỉnh chu cho vẻ ngoài hàng ngày, sản phẩm của Trendify mang đến sự linh hoạt vượt trội. Thiết kế cổ điển, vừa vặn hoàn hảo – chắc chắn là item không thể thiếu trong tủ đồ của bạn. Trải nghiệm sự khác biệt ngay hôm nay.</p>
+          <p>Nâng tầm phong cách của bạn với các sản phẩm chất lượng cao đến từ ST Collection. Được thiết kế tinh tế, cân bằng giữa sự thanh lịch và tính ứng dụng, sản phẩm của chúng tôi sử dụng chất liệu cao cấp, đảm bảo độ bền và sự thoải mái.</p>
+          <p>Dù bạn đang chuẩn bị cho một dịp đặc biệt hay chỉ muốn thêm phần chỉnh chu cho vẻ ngoài hàng ngày, sản phẩm của ST Collection mang đến sự linh hoạt vượt trội. Thiết kế cổ điển, vừa vặn hoàn hảo – chắc chắn là item không thể thiếu trong tủ đồ của bạn. Trải nghiệm sự khác biệt ngay hôm nay.</p>
         </div>
       </div>
 

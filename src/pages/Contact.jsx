@@ -24,9 +24,9 @@ const Contact = () => {
           Email: leduy@gmail.com
         </p>
   
-        <p className='text-xl font-semibold text-gray-600'>Cơ hội nghề nghiệp tại Trendify</p>
+        <p className='text-xl font-semibold text-gray-600'>Cơ hội nghề nghiệp tại ST Collection</p>
         <p className='text-gray-500'>
-          Hãy gia nhập Trendify! Khám phá các vị trí tuyển dụng và cùng chúng tôi định hình tương lai ngành thời trang. <br />
+          Hãy gia nhập ST Collection! Khám phá các vị trí tuyển dụng và cùng chúng tôi định hình tương lai ngành thời trang. <br />
           Tìm hiểu các cơ hội việc làm hiện tại và khám phá cách bạn có thể đóng góp vào sứ mệnh tạo nên xu hướng và phong cách của chúng tôi.
         </p>
   

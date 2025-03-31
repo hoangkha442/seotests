@@ -16,6 +16,7 @@ import phuKien1 from "./phuKien1.jpg"
 import phuKien2 from "./phuKien2.jpg"
 import phuKien3 from "./phuKien3.jpg"
 
+import blazer from "./blazer.jpg"
 import logo from './logo.png'
 import hero_img from './hero_img.png'
 import cart_icon from './cart_icon.png'
@@ -348,6 +349,56 @@ export const products = [
         date: 1716670000008,
         bestseller: false
       },
+      // BLAZER
+      {
+        _id: "aaag1",
+        name: "Blazer nam xám hiện đại",
+        description: "Thiết kế dáng slim-fit, chất vải cao cấp, phù hợp công sở hoặc sự kiện.",
+        price: 520,
+        image: [blazer],
+        category: "blazer",
+        subCategory: "blazer",
+        sizes: ["S", "M", "L", "XL"],
+        date: 1716680000001,
+        bestseller: false
+      },
+      {
+        _id: "aaag2",
+        name: "Blazer nam xám hiện đại",
+        description: "Thiết kế dáng slim-fit, chất vải cao cấp, phù hợp công sở hoặc sự kiện.",
+        price: 520,
+        image: [blazer],
+        category: "blazer",
+        subCategory: "blazer",
+        sizes: ["S", "M", "L", "XL"],
+        date: 1716680000002,
+        bestseller: true
+      },
+      {
+        _id: "aaag3",
+        name: "Blazer nam xám hiện đại",
+        description: "Thiết kế dáng slim-fit, chất vải cao cấp, phù hợp công sở hoặc sự kiện.",
+        price: 520,
+        image: [blazer],
+        category: "blazer",
+        subCategory: "blazer",
+        sizes: ["S", "M", "L", "XL"],
+        date: 1716680000003,
+        bestseller: false
+      },
+      {
+        _id: "aaag4",
+        name: "Blazer nam xám hiện đại",
+        description: "Thiết kế dáng slim-fit, chất vải cao cấp, phù hợp công sở hoặc sự kiện.",
+        price: 520,
+        image: [blazer],
+        category: "blazer",
+        subCategory: "blazer",
+        sizes: ["S", "M", "L", "XL"],
+        date: 1716680000004,
+        bestseller: false
+      }
+,      
       // QUẦN TÂY
       {
         _id: "aaad1",

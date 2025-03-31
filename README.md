@@ -1,8 +1,14 @@
-# React + Vite
+# 🛍️ ST Collection – Khơi nguồn phong cách riêng bạn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ST Collection là nền tảng thời trang hiện đại, nơi bạn có thể khám phá và mua sắm những sản phẩm mới nhất với trải nghiệm mượt mà, giao diện tinh tế và dễ sử dụng.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Cài đặt & chạy dự án
+
+### 1. Clone project
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
